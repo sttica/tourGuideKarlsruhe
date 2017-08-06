@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="category_height">80dp</dimen>
+    <dimen name="list_item_height">90dp</dimen>
+    <dimen name="list_item_width">120dp</dimen>
+    <dimen name="text_container_padding_left">16dp</dimen>
+    <dimen name="text_container_padding_right">8dp</dimen>
+    <dimen name="title_height">20dp</dimen>
+    <dimen name="description_height">70dp</dimen>
+</resources>

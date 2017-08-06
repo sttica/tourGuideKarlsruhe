@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour guide</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="category_attractions">Sehenswürdigkeiten</string>
+    <string name="category_events">Veranstaltungen</string>
+    <string name="category_places">Plätze</string>
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="attractionsTitle1">Bonifatiuskirche</string>
+    <string name="attractionsTitle2">Pyramide</string>
+    <string name="attractionsTitle3">St. Stephan</string>
+    <string name="attractionsDescription1">Die Bonifatiuskirche ist eine römisch-katholische Kirche in der Karlsruher Weststadt (Sophienstraße/Ecke Schillerstraße).</string>
+    <string name="attractionsDescription2">Die Pyramide steht direkt auf dem Marktplatz zwischen Rathaus und Stadtkirche und ist das Wahrzeichen von Karlsruhe.</string>
+    <string name="attractionsDescription3">St. Stephan ist die älteste katholische Kirche in Karlsruhe, mit 800 Besucherplätzen auch die größte.</string>
+    <string name="eventsTitle1">Badisches Staatstheater</string>
+    <string name="eventsTitle2">Das Fest</string>
+    <string name="eventsTitle3">Schlosslichtspiele</string>
+    <string name="eventsDescription1">Vorstellungen in den Sparten Musiktheater, Ballett, Schauspiel und Konzert.</string>
+    <string name="eventsDescription2">Eine Open-air-Veranstaltung in Karlsruhe, die seit 1985 jährlich am vorletzten Juli-Wochenende in der Günther-Klotz-Anlage stattfindet.</string>
+    <string name="eventsDescription3">Eine mehrwöchige Lightmapping-Veranstaltung, die seit dem 300. Karlsruher Stadtgeburtstag jährlich stattfindet.</string>
+    <string name="placesTitle1">Günther-Klotz-Anlage</string>
+    <string name="placesTitle2">Gutenbergplatz</string>
+    <string name="placesTitle3">Schlossplatz</string>
+    <string name="placesDescription1">Eine Grünanlage, die nach dem ehemaligen Karlsruher Oberbürgermeister Günther Klotz benannt wurde.</string>
+    <string name="placesDescription2">Der Gutenbergplatz liegt in der Weststadt mit Krautkopfbrunnen und der Pelikanbrunnen.</string>
+    <string name="placesDescription3">Das Schloss wurde ab 1715 im Barockstil als Residenz des Markgrafen Karl Wilhelm von Baden-Durlach errichtet.</string>
+    <string name="restaurantsTitle1">Holzhacker</string>
+    <string name="restaurantsTitle2">Papa Corleone</string>
+    <string name="restaurantsTitle3">Vaca Verde</string>
+    <string name="restaurantsDescription1">Zünftige Speisen und saisonale Spezialitäten wie Spargel sowie regionale Köstlichkeiten im traditionellen Ambiente.</string>
+    <string name="restaurantsDescription2">Das kleine Lokal mit modern-mediterranem Ambiente serviert hausgemachte Ravioli sowie originelle Tortillas.</string>
+    <string name="restaurantsDescription3">Im Vaca Verde gibt es badisch-mediterrane Speisen, die wöchentlich gewechselt werden.</string>
+</resources>
